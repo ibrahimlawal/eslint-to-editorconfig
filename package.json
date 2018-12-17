@@ -22,7 +22,7 @@
     "url": "https://github.com/sun1x/eslint-to-editorconfig/issues"
   },
   "homepage": "https://github.com/sun1x/eslint-to-editorconfig#readme",
-  "dependencies": {
-    "eslint": "^2.9.0"
+  "peerDpendencies": {
+    "eslint": "latest"
   }
 }
